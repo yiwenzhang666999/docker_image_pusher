@@ -1,1 +1,2 @@
 adoptopenjdk/openjdk11
+openjdk:8-jre-slim
