@@ -2,3 +2,4 @@ adoptopenjdk/openjdk11
 openjdk:8-jre-slim
 liruilong/jdk1.8_191
 jenkinszh/jenkins-zh
+jenkinszh/jenkins:2.204.6-alpine
